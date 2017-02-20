@@ -1,0 +1,18 @@
+{
+  "name": "react-native-android-bottom-navigation",
+  "version": "0.1.0",
+  "description": "react-native bridge to Android's native component BottomNavigation",
+  "license": "MIT",
+  "author": {
+    "name": "Timo Mämecke",
+    "email": "maemecketimo@gmail.com"
+  },
+  "homepage": "https://github.com/timomeh/react-native-android-bottom-navigation",
+  "bugs": {
+    "url": "https://github.com/timomeh/react-native-android-bottom-navigation/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/timomeh/react-native-android-bottom-navigation.git"
+  }
+}
