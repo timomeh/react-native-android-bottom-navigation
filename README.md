@@ -1,6 +1,6 @@
 # Native BottomNavigation for react-native
 
-_**[WIP]**_
+### Note: Development switched to [timomeh/react-native-material-bottom-navigation](https://github.com/timomeh/react-native-material-bottom-navigation)**
 
 This is a bridge to Android's native [BottomNavigation](https://material.io/guidelines/components/bottom-navigation.html). Because this is a Native Component, it only works with Android, not with iOS.
 
